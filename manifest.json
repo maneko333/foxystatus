@@ -4,6 +4,7 @@
   "version": "1.0",
 
   "description": "Quick access to update status on status.cafe",
+  "author": "maneko",
 
   "action": {
   	"default_icon": "icon.png",
